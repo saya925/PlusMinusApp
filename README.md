@@ -1,8 +1,8 @@
 # PlusMinusApp
 Created with CodeSandbox
 
-# スクリーンショット
+## スクリーンショット
 
-![syokijoutai](https://user-images.githubusercontent.com/119723137/221416273-0bd8b59b-99c5-4e78-98f0-da256da54626.png)
+![syokijoutai](https://user-images.githubusercontent.com/119723137/221416496-5aaef983-1813-4d8d-aa5b-865ab764a8c3.png)
 
-![joutai2](https://user-images.githubusercontent.com/119723137/221416280-14816774-a3f0-4d17-9c81-388214f9ea6d.png)
+![joutai2](https://user-images.githubusercontent.com/119723137/221416514-b657dc30-ac08-43f8-b522-2f8ab87a101d.png)
